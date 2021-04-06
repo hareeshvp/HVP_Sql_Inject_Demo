@@ -19,4 +19,4 @@ analyze:
 install:
   coverity:
     version: latest
-serverUrl: https://sipse.polaris.synopsys.com
+serverUrl: https://
